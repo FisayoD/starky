@@ -1,0 +1,23 @@
+{
+  "name": "starky",
+  "version": "1.0.0",
+  "description": "creative-web-design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FisayoD/starky.git"
+  },
+  "author": "Fisayo Ojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FisayoD/starky/issues"
+  },
+  "homepage": "https://github.com/FisayoD/starky#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.3"
+  }
+}
